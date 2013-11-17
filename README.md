@@ -1,4 +1,9 @@
-infinite_image
+Infinite Image Stream
 ==============
 
-Infinite in size InputStream which is a valid image in the same time
+## Description
+Input stream which generates images of any size. 
+Minimum valid image size depends on a platform, but generally is no less than 45 bytes.
+
+## Usage
+The same as regular InputStreams.
